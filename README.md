@@ -1,1 +1,11 @@
-# Public-Transport-Route-and-Schedule-Management
+## How to run the Project
+
+In command line: 
+
+```
+make
+```
+
+```
+./main
+```
